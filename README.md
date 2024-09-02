@@ -1,20 +1,24 @@
 # Tugas-resume
 NARASUMBER : Dr. Hanif fakhrurroja S. SI M. T
+Ada beberapa tahapan dalam cara kerja smart farming yaitu: Monitoring, Pengolahan data, Pengambilan keputusan dan kontrol otomatis.
 
-Program Barista adalah program untuk memberikan bantuan riset yang di lakukan oleh mahasiswa tingkat pada jenjang pendidikan Diploma IV/Skala satu skala dua atau setara dengan perguruan tinggi di dalam negeri
-ada beberapa problematika pertanian di Indonesia, ada solusi juga
+•Akuisi/Pengumpulan Data (Data Acquisition/Collection) Untuk sistem manajemen pertanian, Manajemen sensor, penyimpanan konsumsi dan tipe data yang berbeda
+•Penyimpanan data/Persiapan (Data Storage/Preparation) Untuk menyimpan data, spesifikasi pemetaan, dll.
+•Analytics/AI/ML
+•Action/Ineraction/Visualisatin-Access
 
-•Problematika pertanian di Indonesia
+Program Barista adalah program untuk memberikan bantuan riset.
+ada beberapa problematika pertanian di Indonesia, ada solusi juga;
+
+*Problematika pertanian di Indonesia
 -Budaya vs entrepreneur
 -petani berusia tua
 -lahan terbatas dan tersebar
 -orientasi produksi bukan pasar
 -minim teknologi
 -infrastruktur pendukung lemah
--benih bermutu terbatas
--tidak ada sistem data real-time
 
-•Solusi (New mindset) 
+*Solusi (New mindset) 
 -Teknologi (produktif dan efisien) 
 -manajemen modern
 -orientasi pasar (lokal & global) 
